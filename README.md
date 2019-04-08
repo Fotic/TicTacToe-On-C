@@ -2,18 +2,11 @@
 
 ## ❓ About
 
->Αναγνώριση Προτύπων σε Python & Matlab
+>Εισαγωγή στον Προγραμματισμό σε C++
 
 ## 🔨 Requirements
 
-#### [Python IDE](https://www.python.org/downloads/)
-#### Numpy
-#### Pandas
-#### SKlearn
-
-## 🔧 Install Comamands
-```
-pip install numpy
-pip install pandas
-pip install sklearn
-```
+#### [Netbeans IDE](https://netbeans.org/downloads/8.2/)
+#### [Cywing](https://www.cygwin.com/)
+OR
+#### [Code::Blocks IDE](http://www.codeblocks.org/downloads/26)
