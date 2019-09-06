@@ -1,4 +1,4 @@
-# NBA Players Salaries Prediction in Python 🐍
+# TicTacToe On C++
 
 ## ❓ About
 
